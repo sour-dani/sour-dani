@@ -5,10 +5,8 @@
 [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF)](http://www.cplusplus.org/)
 [![J#](https://img.shields.io/static/v1?label=&message=J%23&color=e66419&logo=.net&logoColor=FFFFFF)](https://vjsharp.net)
 [![Python <3](https://img.shields.io/static/v1?label=&message=Python<3&color=9B18B7&logo=python&logoColor=FFFFFF)](https://www.python.org/)
-
 [![I H8](https://img.shields.io/badge/-I%20H8-red)](https://yoinkysploinky.xyz)
 [![Java](https://img.shields.io/static/v1?label&message=Java&color=FFC500&logo=java&logoColor=000000)](https://www.youtube.com/watch?v=YQfzrBcjoBs)
-
 [![WinXP Lover](https://img.shields.io/static/v1?label=&message=WinXP%20Lover&color=003399&logo=windows-xp&logoColor=FFFFFF)](https://scratch.mit.edu/projects/2435621/)
 [![Ubuntu Tolerable](https://img.shields.io/static/v1?label=&message=Ubuntu%20Tolerable&color=orange&logo=ubuntu&logoColor=FFFFFF)](https://hotdoglinux.com/)
 
@@ -16,19 +14,7 @@
 [![unbox.tf](https://img.shields.io/badge/-unbox.tf-orange)](https://unbox.tf)
 [![unbox.tf](https://img.shields.io/discord/832070068371980338Z)](https://ubx.tf/dc)
 
-- 🔭 I’m currently working on ...
-  - [Pre-Fortress](https://pre-fortress.com)
-- 🌱 I’m currently learning ...
-  - [Docker](https://www.docker.com/)
-- 👯 I’m looking to collaborate on ...
-  - [Pre-Fortress](https://pre-fortress.com)
-- 🤔 I’m looking for help with ...
-  - Nothing!
-- 💬 Ask me about ...
-  - [unbox.tf](https://ubx.tf/dc)
-- 📫 How to reach me: ...
-  - sourdanidev@gmail.com
-- 😄 Pronouns: ...
-  - They/Them
-- ⚡ Fun fact: ...
-  - I own the only [J# Archive](https://vjsharp.net)
+- [Pre-Fortress](https://pre-fortress.com)
+- [unbox.tf](https://ubx.tf/dc)
+- sourdanidev@gmail.com or dani@prefortress.com
+- I own the only [J# Archive](https://vjsharp.net)
