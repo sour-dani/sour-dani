@@ -11,10 +11,10 @@
 [![Ubuntu Tolerable](https://img.shields.io/static/v1?label=&message=Ubuntu%20Tolerable&color=orange&logo=ubuntu&logoColor=FFFFFF)](https://hotdoglinux.com/)
 
 
-[![unbox.tf](https://img.shields.io/badge/-unbox.tf-orange)](https://unbox.tf)
+[![unbox.tf](https://img.shields.io/badge/-unbox.tf-orange)](https://ubx.tf/dc)
 [![unbox.tf](https://img.shields.io/discord/832070068371980338)](https://ubx.tf/dc)
 
 - [Pre-Fortress](https://pre-fortress.com)
 - [unbox.tf](https://ubx.tf/dc)
 - sourdanidev@gmail.com or dani@prefortress.com
-- I own the only [J# Archive](https://vjsharp.net)
+- [J# Archive](https://vjsharp.net)
