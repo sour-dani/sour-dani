@@ -7,9 +7,11 @@
 [![Python <3](https://img.shields.io/static/v1?label=&message=Python<3&color=9B18B7&logo=python&logoColor=FFFFFF)](https://www.python.org/)
 
 [![I H8](https://img.shields.io/badge/-I%20H8-red)](https://yoinkysploinky.xyz)
-[![Java](https://img.shields.io/static/v1?label&message=Java&color=FFC500&logo=java&logoColor=000000)](https://openjdk.java.net/)
+[![Java](https://img.shields.io/static/v1?label&message=Java&color=FFC500&logo=java&logoColor=000000)](https://www.youtube.com/watch?v=YQfzrBcjoBs)
 
-[](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white)
+[![WinXP Lover](https://img.shields.io/static/v1?label=&message=WinXP%20Lover&color=003399&logo=windows-xp&logoColor=FFFFFF)](https://scratch.mit.edu/projects/2435621/)
+[![Ubuntu Tolerable](https://img.shields.io/static/v1?label=&message=Ubuntu%20Tolerable&color=orange&logo=ubuntu&logoColor=FFFFFF)](https://hotdoglinux.com/)
+
 
 [![unbox.tf](https://img.shields.io/badge/-unbox.tf-orange)](https://unbox.tf)
 [![unbox.tf](https://img.shields.io/discord/832070068371980338Z)](https://ubx.tf/dc)
