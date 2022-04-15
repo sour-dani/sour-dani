@@ -8,7 +8,7 @@
 [![Java](https://img.shields.io/static/v1?label&message=Java&color=FFC500&logo=java&logoColor=000000)](https://www.youtube.com/watch?v=YQfzrBcjoBs)
 [![WinXP Lover](https://img.shields.io/static/v1?label=&message=WinXP%20Lover&color=003399&logo=windows-xp&logoColor=FFFFFF)](https://scratch.mit.edu/projects/2435621/)
 [![Ubuntu Tolerable](https://img.shields.io/static/v1?label=&message=Ubuntu%20Tolerable&color=orange&logo=ubuntu&logoColor=FFFFFF)](https://hotdoglinux.com/)
-[![Source Mods](https://img.shields.io/static/v1?label=&message=Source%20Mods&color=black&logo=steam&logoColor=FFFFFF)](https://github.com/Nbc66/source-sdk-2013-ce)
+
 ---
 [![unbox.tf](https://img.shields.io/badge/-unbox.tf-orange)](https://ubx.tf/dc)
 [![unbox.tf](https://img.shields.io/discord/832070068371980338)](https://ubx.tf/dc)
@@ -17,3 +17,6 @@
 - [unbox.tf](https://ubx.tf/dc)
 - sourdanidev@gmail.com or dani@prefortress.com
 - [J# Archive](https://vjsharp.net)
+
+---
+[![Source Mods](https://img.shields.io/static/v1?label=&message=Source%20Mods&color=black&logo=steam&logoColor=FFFFFF)](https://github.com/Nbc66/source-sdk-2013-ce)
