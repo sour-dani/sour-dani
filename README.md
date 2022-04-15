@@ -12,7 +12,7 @@
 
 
 [![unbox.tf](https://img.shields.io/badge/-unbox.tf-orange)](https://unbox.tf)
-[![unbox.tf](https://img.shields.io/discord/832070068371980338Z)](https://ubx.tf/dc)
+[![unbox.tf](https://img.shields.io/discord/832070068371980338)](https://ubx.tf/dc)
 
 - [Pre-Fortress](https://pre-fortress.com)
 - [unbox.tf](https://ubx.tf/dc)
