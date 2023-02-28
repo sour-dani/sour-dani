@@ -1,3 +1,5 @@
+Meowdy!! Most of my work is in private repos but feel free to explore the Organizations I'm a part of!
+---
 **Languages:**
 
 [![Python](https://img.shields.io/static/v1?label=&message=Python<3&color=9B18B7&logo=python&logoColor=FFFFFF)](https://www.python.org/)
