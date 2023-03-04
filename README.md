@@ -16,9 +16,9 @@ Meowdy!! Most of my work is in private repos but feel free to explore the Organi
 ---
 **Discord Contributions:**
 
-[![unbox.tf Discord](https://img.shields.io/discord/832070068371980338?label=unbox.tf%20Discord)](https://discord.gg/cdrWJHsFkq)
 [![PF2 Discord](https://img.shields.io/discord/509270384659398666?label=PF2%20Discord)](https://discord.gg/ra68rM5nuE)
 [![KritzKast Discord](https://img.shields.io/discord/93472782184087552?label=KritzKast%20Discord)](https://discord.kritzkast.tf/)
+[![unbox.tf Discord](https://img.shields.io/discord/832070068371980338?label=unbox.tf%20Discord)](https://discord.gg/cdrWJHsFkq)
 
 **Projects:**
 
