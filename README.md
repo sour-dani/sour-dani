@@ -6,9 +6,10 @@ Most of my work is in private repos but feel free to explore the Organizations I
 
 [![Python](https://img.shields.io/static/v1?label=&message=Python<3&color=9B18B7&logo=python&logoColor=FFFFFF)](https://github.com/Mecaneer23/Bin-snake)
 [![C#](https://img.shields.io/static/v1?label=&message=C%23&color=267dc9&logo=csharp&logoColor=FFFFFF)](https://github.com/sam-astro/Z-Sharp)
-[![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF)](https://github.com/jamesalbert/HolyC-for-Linux)
+[![Go](https://img.shields.io/static/v1?label=&message=Go&color=00599C&logo=go&logoColor=FFFFFF)](https://github.com/jamesalbert/HolyC-for-Linux)
 [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=grey&logo=shell&logoColor=FFFFFF)](http://www.kornshell.com/fun/)
 [![PowerShell](https://img.shields.io/static/v1?label=&message=PowerShell&color=darkblue&logo=powershell&logoColor=FFFFFF)](https://reactos.org/)
+
 
 
 ### Skills:
