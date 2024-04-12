@@ -18,7 +18,7 @@ Most of my work is in private repos but feel free to explore the Organizations I
 [![Debian Server](https://img.shields.io/static/v1?label=&message=Debian%20Server&color=crimson&logo=debian&logoColor=FFFFFF)](https://linuxmint.com/download_lmde.php)
 [![BSD Server](https://img.shields.io/static/v1?label=&message=BSD%20Server&color=darkred&logo=freebsd&logoColor=FFFFFF)](https://www.youtube.com/watch?v=dFUlAQZB9Ng)
 [![GitHub CD/CI](https://img.shields.io/static/v1?label=&message=GitHub%20CD/CI&color=313131&logo=github&logoColor=FFFFFF)](https://gitee.com/)
-[![GitLab CD/CI](https://img.shields.io/static/v1?label=&message=GitHub%20CD/CI&color=313131&logo=gitlab&logoColor=FFFFFF)](https://gitflic.ru/)
+[![GitLab CD/CI](https://img.shields.io/static/v1?label=&message=GitLab%20CD/CI&color=313131&logo=gitlab&logoColor=FFFFFF)](https://gitflic.ru/)
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=blue&logo=docker&logoColor=FFFFFF)](https://catern.com/docker.html)
 [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=teal&logo=flask&logoColor=FFFFFF)](https://expressjs.com/)
 [![DevOps](https://img.shields.io/static/v1?label=&message=DevOps&color=green&logo=git&logoColor=FFFFFF)](https://developer.valvesoftware.com/wiki/Source_SDK_2013#Source_SDK_2013_on_macOS_.28OS_X.29)
