@@ -1,5 +1,4 @@
-# Summary
-DevOps engineer who loves SourceMods and making other engineers lives easier!
+#### DevOps engineer who loves SourceMods and making other engineers lives easier!
 
 ---
 ### Languages
@@ -36,7 +35,7 @@ DevOps engineer who loves SourceMods and making other engineers lives easier!
 [![KritzKast Discord](https://img.shields.io/discord/93472782184087552?label=KritzKast%20Discord)](https://discord.kritzkast.tf/)
 [![unbox.tf Discord](https://img.shields.io/discord/832070068371980338?label=unbox.tf%20Discord)](https://discord.gg/cdrWJHsFkq)
 
-**Projects:**
+#### Projects:
 
 - [Pre-Fortress 2](https://prefortress.com) [Infrastructure Lead](https://github.com/Pre-Fortress-2)
 - [Discord.py Developer](https://github.com/KritzKastTF)
