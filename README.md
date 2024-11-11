@@ -10,7 +10,7 @@
 [![PowerShell](https://img.shields.io/static/v1?label=&message=PowerShell&color=darkblue&logo=gnometerminal&logoColor=FFFFFF)](https://reactos.org/)
 
 ### Server Administration
-[![Ubuntu Server](https://img.shields.io/static/v1?label=&message=Ubuntu%20Server&color=orange&logo=ubuntu&logoColor=FFFFFF)](https://hotdoglinux.com/)
+[![Ubuntu Server](https://img.shields.io/static/v1?label=&message=Ubuntu%20Server&color=orange&logo=ubuntu&logoColor=FFFFFF)](https://web.archive.org/web/20240810012003/http://hotdoglinux.com/)
 [![Debian Server](https://img.shields.io/static/v1?label=&message=Debian%20Server&color=crimson&logo=debian&logoColor=FFFFFF)](https://linuxmint.com/download_lmde.php)
 [![BSD Server](https://img.shields.io/static/v1?label=&message=BSD%20Server&color=darkred&logo=freebsd&logoColor=FFFFFF)](https://www.youtube.com/watch?v=dFUlAQZB9Ng)
 
@@ -22,12 +22,12 @@
 [![Staging Environments](https://img.shields.io/static/v1?label=&message=Staging%20Environments&color=green&logo=git&logoColor=FFFFFF)](https://developer.valvesoftware.com/wiki/Source_SDK_2013#Source_SDK_2013_on_macOS_.28OS_X.29)
 
 ### Game Development
-[![Source](https://img.shields.io/static/v1?label=&message=Source&color=black&logo=steam&logoColor=FFFFFF)](https://monogame.net/)
+[![Source](https://img.shields.io/static/v1?label=&message=Source&color=black&logo=steam&logoColor=FFFFFF)](https://www.thegamecreators.com/product/fps-creator-classic-open-source)
 [![Unity](https://img.shields.io/static/v1?label=&message=Unity&color=darkgrey&logo=unity&logoColor=FFFFFF)](https://monogame.net/)
 [![Godot](https://img.shields.io/static/v1?label=&message=Godot&color=lightblue&logo=godotengine&logoColor=FFFFFF)](https://www.youtube.com/watch?v=FK7196oJYkM)
 
 ### Archives
-[![Visual J#](https://img.shields.io/static/v1?label=&message=Visual%20J%23&color=e66419&logo=.net&logoColor=FFFFFF)](https://vjsharp.net)
+[![Visual J#](https://img.shields.io/static/v1?label=&message=Visual%20J%23&color=e66419&logo=.net&logoColor=FFFFFF)](https://jsharp.net)
 
 ---
 ### Community Contributions:
